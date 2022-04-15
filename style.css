@@ -1,0 +1,27 @@
+.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    margin: 50px 45px;
+   
+}
+
+.cabeçalho .menu .lista{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.sobre{
+    background-color: #5BC241;
+    padding: 11px 6px;
+    font-weight: 300;
+}
+
+.cadastro{
+    background-color: #5BC241;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Public Sans', sans-serif;
+}
+
+.cabeçalho a .logo{
+    font-weight: 800;
+}
+
+.cabeçalho .menu .lista{
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
